@@ -18,10 +18,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhonzw&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonzw&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=6&cache_seconds=1800" />
-</p>
-
 ---
 
 ### 🛠️ Tech Stack
@@ -60,6 +56,6 @@
 
 ### 🚀 Projetos e Estudos Atuais
 
-- 🍕 **ERP Pizzeria** — Dashboard financeiro completo com Node.js e SQL
-- 📦 **Asset Management** — Controle de inventário via GLPI 10
+- 🍕 **ERP Lanchonete** — Dashboard financeiro completo com Node.js e SQL
+- 🔗 ERP Integrations — Integração com sistemas como TOTVS Protheus e APIs externas
 - 🎓 **English Journey** — Estudando para a certificação **Cambridge C1 Advanced**
