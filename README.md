@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonzw&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jhonzw&theme=tokyonight" />
 </p>
 
 ---
