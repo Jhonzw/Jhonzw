@@ -14,7 +14,7 @@
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0D10?style=for-the-badge&logo=linkedin&logoColor=D4A24C)](https://www.linkedin.com/in/jo%C3%A3o-vitor-5440212ba/) [![E-mail](https://img.shields.io/badge/E--mail-0B0D10?style=for-the-badge&logo=gmail&logoColor=D4A24C)](mailto:jvrsouza13@gmail.com) [![Goiânia · GO](https://img.shields.io/badge/Goi%C3%A2nia_%C2%B7_GO-0B0D10?style=for-the-badge&logo=googlemaps&logoColor=D4A24C)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/jo%C3%A3o-vitor-5440212ba/) [![E-mail](https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&logo=gmail&logoColor=22D3EE)](mailto:jvrsouza13@gmail.com) [![Goiânia · GO](https://img.shields.io/badge/Goi%C3%A2nia_%C2%B7_GO-0D1117?style=for-the-badge&logo=googlemaps&logoColor=22D3EE)](#)
 
 </div>
 
