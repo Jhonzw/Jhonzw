@@ -9,7 +9,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img alt="João Vitor — Analista de Negócios e Desenvolvedor Full Stack" src="./assets/hero-dark.svg" width="100%">
+  <img alt="João Vitor — Analista de Negócios e Aspirante a Desenvolvedor" src="./assets/hero-dark.svg" width="100%">
 </picture>
 
 <br><br>
