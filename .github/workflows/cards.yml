@@ -1,9 +1,6 @@
 name: Atualizar cards do perfil
 
 on:
-  schedule:
-    # todo dia às 09:00 UTC (06:00 em Goiânia)
-    - cron: "0 9 * * *"
   push:
     branches: [main]
     paths:
